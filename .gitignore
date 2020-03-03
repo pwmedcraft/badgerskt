@@ -1,0 +1,19 @@
+*.class
+*.log
+
+.idea
+*.iml
+*.sc
+
+.DS_Store
+
+.gradle/
+build/
+!**/src/**/build
+!**/test/**/build
+
+.tmp/
+tmp/
+native/
+
+dist/ls gr
